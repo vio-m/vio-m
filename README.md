@@ -1,13 +1,5 @@
-import vio-m
+A programmer has two cows.
 
-import skills
+cow.milk() returns None
 
-about = {'from': 'Bistrita',
-          'age' : 39, 
-          'eyes': 'yes'}
-
-
-knows_some = ['Python_3', 'Pandas', 'Matplotlib', 'SQLite']
-
-
-print('Curious by nature, likes cats.')
+He asks Corporate for a raise.
