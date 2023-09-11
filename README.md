@@ -1,8 +1,8 @@
-## Hi there 
+👋 Ahoy, fellow digital voyager! I'm **Vio**, your friendly neighborhood web wizard 🧙‍♂️
 
-I'm Viorel, a self-taught web developer, tech enthusiast and CS veteran from :romania:.ro
 
-Currently learning :
+
+🌱 Currently learning and exploring:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -28,9 +28,4 @@ Currently learning :
 
 
 
-You can find me on  [![LINKEDIN][1.2]][1]
-
-[1.2]: https://img.icons8.com/officexs/16/000000/linkedin.png 
-
-[1]: https://www.linkedin.com/in/viorel-moldovan/
-
+📫 You can find my true identity on <a href="https://www.linkedin.com/in/viorel-moldovan/" style="display: inline-block;"><img src="https://img.icons8.com/officexs/16/000000/linkedin.png" style="vertical-align: middle;"></a> or you can check out my [portfolio](https://vm-portfolio.onrender.com/) 🌐.
